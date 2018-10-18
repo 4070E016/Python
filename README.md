@@ -1,16 +1,13 @@
 # Python
 
-
-
-```
-
-
-# turtle 命令
+ 
  
 
-```
+# turtle 命令
+
 ```
 說明
+
 
 turtle.clear()   清空turtle視窗，但是turtle的位置和狀態不會改變
 
